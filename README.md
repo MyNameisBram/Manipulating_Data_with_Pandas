@@ -1,4 +1,4 @@
-# Manipulating_Data_with_Pandas
+# Manipulating_Data_with_Pandas - part 1
 Pandas is an open source data structures and data analysis tool for Python. 
 
 What problem does pandas solve? 
