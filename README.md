@@ -17,12 +17,12 @@ Some [Library highlights](https://pandas.pydata.org):
 - **Time series**-functionality: date range generation and frequency conversion, moving window statistics, moving window linear regressions, date shifting and lagging. Even create domain-specific time offsets and join time series without losing data;
 - Python with pandas is in use in a wide variety of academic and commercial domains, including Finance, Neuroscience, Economics, Statistics, Advertising, Web Analytics, and more.
 
-# [Part-1]() 
+# [Part-1](https://github.com/MyNameisBram/Manipulating_Data_with_Pandas/blob/master/Pandas_part1.ipynb) 
 - Concat 
 - Append
 - Merge & Join 
 
-# [Part-2]()
+# [Part-2](https://github.com/MyNameisBram/Manipulating_Data_with_Pandas/blob/master/Pandas_part2.ipynb)
 ## GroupBy: 
 - Aggregation 
 - Apply
