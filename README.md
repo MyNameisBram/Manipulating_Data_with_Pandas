@@ -1,4 +1,4 @@
-# Manipulating_Data_with_Pandas - part 1
+# Manipulating_Data_with_Pandas
 Pandas is an open source data structures and data analysis tool for Python. 
 
 What problem does pandas solve? 
@@ -16,3 +16,15 @@ Some [Library highlights](https://pandas.pydata.org):
 - **Hierarchical axis indexing** provides an intuitive way of working with high-dimensional data in a lower-dimensional data structure;
 - **Time series**-functionality: date range generation and frequency conversion, moving window statistics, moving window linear regressions, date shifting and lagging. Even create domain-specific time offsets and join time series without losing data;
 - Python with pandas is in use in a wide variety of academic and commercial domains, including Finance, Neuroscience, Economics, Statistics, Advertising, Web Analytics, and more.
+
+# [Part-1]() 
+- Concat 
+- Append
+- Merge & Join 
+
+# [Part-2]()
+## GroupBy: 
+- Aggregation 
+- Apply
+- Filter
+- Transform 
